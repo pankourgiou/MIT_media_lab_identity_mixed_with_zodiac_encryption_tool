@@ -1,0 +1,1 @@
+So I took the MIT media lab identity symbols/glyphs and added zodiac symbols too then created the encryption tool-->copy paste the code on your notepad and save it as .html then double click the file and you are ready to encrypt your messages.Let's put the fun back into computing!
